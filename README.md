@@ -47,3 +47,7 @@ cp *.theme ~/.local/share/xfce4/terminal/colorschemes/
 ```
 
 Enjoy!
+
+## Additional resources
+
+For all available ports, refer to the main [Tempus themes repo](https://github.com/protesilaos/tempus-themes).
