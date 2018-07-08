@@ -1,6 +1,6 @@
 # Tempus Themes for Xfce4-terminal
 
-**DEPRECATION NOTICE — [MOVED TO GITLAB](https://gitlab.com/protesilaos/tempus-themes-generator-xfce4-terminal).**
+**DEPRECATION NOTICE — [MOVED TO GITLAB](https://gitlab.com/protesilaos/tempus-themes-xfce4-terminal).**
 
 ## Automatic installation
 
