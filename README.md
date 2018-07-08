@@ -1,5 +1,7 @@
 # Tempus Themes for Xfce4-terminal
 
+**DEPRECATION NOTICE — [MOVED TO GITLAB](https://gitlab.com/protesilaos/tempus-themes-generator-xfce4-terminal).**
+
 ## Automatic installation
 
 If you use Arch Linux or derivatives, you can get these themes from the [AUR](https://aur.archlinux.org/packages/tempus-themes-xfce4-terminal/).
